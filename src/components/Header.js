@@ -44,16 +44,16 @@ export default function Header() {
               <Link href="/" className="text-gray-700 hover:text-green-600 font-medium">
                 Home
               </Link>
-              <Link href="/services" className="text-gray-700 hover:text-green-600 font-medium">
+              <Link href="src\pages\Servicespage.tsx" className="text-gray-700 hover:text-green-600 font-medium">
                 Services
               </Link>
-              <Link href="/about" className="text-gray-700 hover:text-green-600 font-medium">
+              <Link href="src\pages\Aboutuspages.tsxt" className="text-gray-700 hover:text-green-600 font-medium">
                 About Us
               </Link>
-              <Link href="/booking" className="text-gray-700 hover:text-green-600 font-medium">
+              <Link href="src\pages\Bookingpage.tsx" className="text-gray-700 hover:text-green-600 font-medium">
                 Book Appointment
               </Link>
-              <Link href="/testimonials" className="text-gray-700 hover:text-green-600 font-medium">
+              <Link href="src\pages\Testimonials.tsx" className="text-gray-700 hover:text-green-600 font-medium">
                 Testimonials
               </Link>
               <Link href="/contact" className="text-gray-700 hover:text-green-600 font-medium">
@@ -82,22 +82,22 @@ export default function Header() {
                 <Link href="/" className="block text-gray-700 hover:text-green-600">
                   Home
                 </Link>
-                <Link href="/services" className="block text-gray-700 hover:text-green-600">
+                <Link href="\wsl.localhost\Ubuntu\home\saad\manvi-ruqiya-center\src\pages\Servicespage.tsx" className="block text-gray-700 hover:text-green-600">
                   Services
                 </Link>
-                <Link href="/about" className="block text-gray-700 hover:text-green-600">
+                <Link href="src\pages\Aboutuspages.tsx" className="block text-gray-700 hover:text-green-600">
                   About Us
                 </Link>
-                <Link href="/booking" className="block text-gray-700 hover:text-green-600">
+                <Link href="src\pages\Bookingpage.tsx" className="block text-gray-700 hover:text-green-600">
                   Book Appointment
                 </Link>
-                <Link href="/testimonials" className="block text-gray-700 hover:text-green-600">
+                <Link href="src\pages\Testimonials.tsx" className="block text-gray-700 hover:text-green-600">
                   Testimonials
                 </Link>
                 <Link href="/contact" className="block text-gray-700 hover:text-green-600">
                   Contact
                 </Link>
-                <Link href="/booking" className="block bg-green-600 text-white px-4 py-2 rounded-lg text-center">
+                <Link href="src\pages\Bookingpage.tsx" className="block bg-green-600 text-white px-4 py-2 rounded-lg text-center">
                   Book Now
                 </Link>
               </div>
